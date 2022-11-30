@@ -1,0 +1,232 @@
+﻿Build started 13/11/2022 18:29:47.
+     1>Project "C:\Users\User\documents\visual studio 2010\Projects\HMM_codebook\HMM_codebook\HMM_codebook.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\HMM_codebook.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\HMM_codebook.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HMM_codebook.cpp
+         HMM_codebook.cpp
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\durbin_functions.h(43): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\durbin_functions.h(47): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\durbin_functions.h(73): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\durbin_functions.h(77): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\durbin_functions.h(108): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\durbin_functions.h(114): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\durbin_functions.h(182): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\durbin_functions.h(199): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\durbin_functions.h(331): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\durbin_functions.h(378): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\durbin_functions.h(379): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\durbin_functions.h(380): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\durbin_functions.h(414): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\durbin_functions.h(421): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\durbin_functions.h(422): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\durbin_functions.h(423): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\lbg.h(15): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\lbg.h(51): warning C4101: 'ret' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\lbg.h(49): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\lbg.h(87): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\lbg.h(247): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\lbg.h(263): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\lbg.h(270): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\lbg.h(275): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\lbg.h(260): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\lbg.h(293): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\lbg.h(294): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\lbg.h(291): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\lbg.h(291): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(44): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(47): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(86): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(105): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(108): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(121): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(228): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(286): warning C4244: '=' : conversion from 'long double' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(335): warning C4101: 'ind' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(336): warning C4101: 'mx' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(336): warning C4101: 'sum' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(495): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(515): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(537): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(540): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(565): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(567): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(610): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(611): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(688): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(706): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(725): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(726): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(729): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(751): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(752): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(755): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(776): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(774): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(797): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(798): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(807): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(808): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(809): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(820): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(821): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(822): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(790): warning C4101: 'HMM_best_model_bjk' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_functions.h(789): warning C4101: 'HMM_best_model_aij' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(39): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(46): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(52): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(64): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(100): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(106): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(114): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(134): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(143): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(144): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(160): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(169): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(170): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(190): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(194): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(195): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(225): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(229): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(219): warning C4101: 'temp' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(275): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(276): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(280): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(328): warning C4244: 'argument' : conversion from 'long double' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(329): warning C4244: 'argument' : conversion from 'long double' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(273): warning C4101: 'temp' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(272): warning C4101: 'size' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(356): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(357): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(358): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(359): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(360): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(361): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(395): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(396): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(422): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(423): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(427): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(428): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(429): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(453): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(454): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(414): warning C4101: 'ch' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(474): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2010\projects\hmm_codebook\hmm_codebook\hmm_codebook.cpp(499): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\documents\visual studio 2010\Projects\HMM_codebook\Debug\HMM_codebook.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HMM_codebook.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\User\documents\visual studio 2010\Projects\HMM_codebook\Debug\HMM_codebook.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\documents\visual studio 2010\Projects\HMM_codebook\Debug\HMM_codebook.lib" /MACHINE:X86 Debug\HMM_codebook.exe.embed.manifest.res
+         Debug\HMM_codebook.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\HMM_codebook.exe.embed.manifest" /manifest Debug\HMM_codebook.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         HMM_codebook.vcxproj -> C:\Users\User\documents\visual studio 2010\Projects\HMM_codebook\Debug\HMM_codebook.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\HMM_codebook.unsuccessfulbuild".
+         Touching "Debug\HMM_codebook.lastbuildstate".
+     1>Done Building Project "C:\Users\User\documents\visual studio 2010\Projects\HMM_codebook\HMM_codebook\HMM_codebook.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.41
